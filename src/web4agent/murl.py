@@ -48,4 +48,4 @@ def main() -> None:
         )
         sys.exit(1)
 
-    print(f"# {title or args.url}\n\n<url>{args.url}</url>\n\n{text}")
+    print(text)

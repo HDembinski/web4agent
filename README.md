@@ -9,10 +9,6 @@ Fetch a webpage with Camoufox and print it as Markdown, curl-style:
 ```console
 $ murl https://example.com
 
-# Example Domain
-
-<url>https://example.com</url>
-
 ---
 title: Example Domain
 url: https://example.com

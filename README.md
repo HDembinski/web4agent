@@ -31,7 +31,7 @@ If less than 200 chars can be extracted, `murl` warns and exits non-zero — try
 pip install web4agent
 ```
 
-Python >= 3.10. Extraction is done by [trafilatura](https://trafilatura.readthedocs.io) in Markdown mode with links and metadata.
+Python >= 3.10. Extraction is done by [trafilatura](https://trafilatura.readthedocs.io) in Markdown mode with links.
 
 ## License
 

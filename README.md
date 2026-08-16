@@ -13,8 +13,15 @@ $ murl https://example.com
 
 <url>https://example.com</url>
 
-Example Domain
-...
+---
+title: Example Domain
+url: https://example.com
+hostname: example.com
+sitename: example.com
+---
+This domain is for use in documentation examples without needing permission. Avoid use in operations.
+
+Learn more
 ```
 
 Options:

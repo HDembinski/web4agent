@@ -35,7 +35,6 @@ def main() -> None:
             output_format="markdown",
             favor_recall=True,  # less aggressive filtering than the precision default
             include_links=True,
-            with_metadata=True,
         )
         or ""
     ).strip()

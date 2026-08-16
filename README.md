@@ -7,17 +7,15 @@ Web reader CLIs built on [Camoufox](https://camoufox.com) (anti-detect Firefox).
 Fetch a webpage with Camoufox and print it as Markdown, curl-style:
 
 ```console
-$ murl https://example.com
+$ murl https://en.wikipedia.org/wiki/Markdown
 
----
-title: Example Domain
-url: https://example.com
-hostname: example.com
-sitename: example.com
----
-This domain is for use in documentation examples without needing permission. Avoid use in operations.
+# Markdown
 
-Learn more
+| Markdown |  | 
+|---|---|
+| [Filename extensions](https://en.wikipedia.org/wiki/Filename_extension) | `.md` ,`.markdown` ... |
+| [Internet media type](https://en.wikipedia.org/wiki/Media_type) | `text/markdown` ... |
+...
 ```
 
 Options:
